@@ -1,0 +1,15 @@
+# Overclocking
+arm_freq=800
+force_turbo=1
+gpu_mem=128
+
+# Boot config
+start_file=start_x.elf
+fixup_file=fixup_x.dat
+
+# HDMI (Funai LH840 M32)
+hdmi_group=2
+hdmi_mode=39
+hdmi_force_hotplug=1
+config_hdmi_boost=4
+
